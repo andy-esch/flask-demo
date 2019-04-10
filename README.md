@@ -5,7 +5,7 @@
 1. Install pipenv!
    `$ brew install pipenv`
 2. Clone git repo
-   `$ git clone flask-demo`
+   `$ git clone https://github.com/andy-esch/flask-demo.git`
 3. Setup python environment
    `$ pipenv --three`
 4. Install packages
