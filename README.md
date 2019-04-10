@@ -15,7 +15,7 @@
 5. Start up the virtual environment in a subshell
    `$ pipenv shell`
 6. Run the app!
-   `$ FLASK_APP=app.py FLASK_DEBUG=1 flask run`
+   `$ FLASK_APP=app.py FLASK_DEBUG=1 MPL_BACKEND='agg' flask run`
 
 You'll see something like this in the terminal:
 > * Serving Flask app "app.py"
