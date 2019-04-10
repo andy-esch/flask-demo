@@ -28,3 +28,8 @@ You'll see something like this in the terminal:
 Open up `http://127.0.0.1:5000/` in your browser.
 
 Open up `http://127.0.0.1:5000/`
+
+Once you're done:
+
+1. Exit the virtual environment: `$ exit`
+2. Delete the virtual environment: `$ pipenv --rm`
